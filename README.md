@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello my friends! 👋
 
 - 🔭 I’m currently studying in SCNU for the Master of Engineering
 - 🌱 I’m currently learning Machine learning and Deep Learning.
