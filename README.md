@@ -6,3 +6,4 @@
 - 💬 Ask me about anything！
 - 📫 How to reach me: 1290657172@qq.com
 - ⚡ Fun fact: playing basketball and trying to lose weight
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgbSmith)](https://github.com/anuraghazra/github-readme-stats)
