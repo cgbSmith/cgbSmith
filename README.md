@@ -10,5 +10,5 @@
 
 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgbSmith)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgbSmith&&langs_count=80)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgbSmith&&langs_count=180)](https://github.com/anuraghazra/github-readme-stats)
 
