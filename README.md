@@ -10,5 +10,5 @@
 &
 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgbSmith&&langs_count=180&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgbSmith&&langs_count=120&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgbSmith&&langs_count=120&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
