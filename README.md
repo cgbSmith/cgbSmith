@@ -1,7 +1,7 @@
 ### Hello my friends! 👋
 
 - 🔭 I’m currently studying in SCNU for the Master of Engineering
-- 🌱 I’m currently learning Machine learning and Deep Learning.
+- 🌱 I’m currently learning GCN,GNN...
 - 🌱 Sometimes I need to do some projects with Springboot framework
 - 💬 Ask me about anything！
 - 📫 How to reach me: 1290657172@qq.com
